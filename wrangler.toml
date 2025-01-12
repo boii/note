@@ -1,4 +1,4 @@
-name = "cloud-notepad"
+name = "note"
 main = "src/index.js"
 compatibility_date = "2022-05-13"
 
